@@ -1,0 +1,6 @@
+skillsId,skill1,skill2,skill3,skill4,skill5,skill6,skill7,skill8,skill9
+string,string,string,string,string,string,string,string,string,string
+Google pub/sub,Apache Kafka,MuleSoft Anypoint Platform,IBM MQ,Amazon Kinesis,RabbitMQ,Apache ActiveMQ,Azure Event Hubs,HubSpot Operations Hub,
+Google Cloud,MuleSoft Anypoint Platform.,Amazon Web Services,Microsoft Azure,IBM Cloud,Oracle Cloud Infrastructure (Gen 2),VMware Cloud on AWS,Alibaba Cloud - International,vCloud Air powered by OVH,Lumen Public Cloud
+Event Hub,Amazon Kinesis.,Amazon Kinesis,Confluent,Google Cloud Pub/Sub,HubSpot Operations Hub,TIBCO Spotfire,Apache Flink,Apache Kafka,StreamSets
+x,x1,x2,x3,x4,x5,x6,x7,y8,y9
